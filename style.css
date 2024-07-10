@@ -11,6 +11,22 @@
 
 
 
+/*shared style*/
+.opatity {
+    opacity: 0.5;
+}
+
+.image {
+    height: 274px;
+    width: 245px;
+}
+
+.image1 {
+    height: 240px;
+    width: 240px;
+}
+
+
 
 
 /*nav bar style*/
@@ -62,4 +78,82 @@
 header div a {
     color: white;
     text-decoration: none;
+}
+
+
+/* why web development style*/
+
+
+.title {
+    text-align: center;
+    padding: 140px;
+    justify-content: space-between;
+    margin: 152px;
+    padding: 80px 97px;
+    background-color: #fafbfd;
+
+}
+
+section>h4 {
+    font-size: 32px;
+    font-weight: 800px;
+}
+
+section>p {
+    font-size: 16px;
+    font-weight: 400px;
+    opacity: 0.5;
+}
+
+/*section>div styles*/
+
+
+.element-1head {
+    font-size: 24px;
+    font-weight: 800px;
+    opacity: 0.7;
+}
+
+.element-1descripton {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.element-1button {
+    font-weight: 700px;
+    font-size: 20px;
+    padding: 12px 20px;
+    color: black;
+}
+
+section div a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.element-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.element-2head {
+    font-size: 24px;
+    font-weight: 800px;
+    opacity: 0.7;
+}
+
+
+.set-element {
+    display: inline;
+}
+
+.child {
+    display: block;
+}
+
+.element {
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
 }
