@@ -188,3 +188,79 @@ section div a {
     margin: 152px;
     padding: 80px 97px;
 }
+
+
+
+
+/*Inspiration style*/
+
+
+
+.target-title {
+    font-weight: 800px;
+    font-size: 32px;
+}
+
+.target-description {
+    font-weight: 400px;
+    font-size: 16px;
+    opacity: 0.5;
+}
+
+.current-target {
+    text-align: center;
+    margin: 0px 97px 0px 97px;
+}
+
+.current-target-title {
+    /*shared styles is this div*/
+    font-weight: 800px;
+    font-size: 24px;
+}
+
+.current-target-description {
+    font-weight: 400px;
+    font-size: 16px;
+    opacity: 0.5;
+}
+
+.html {
+    margin: 40px;
+    padding: 40px;
+    background-color: rgb(255, 241, 243);
+    border-radius: 16px;
+}
+
+.css {
+    margin: 40px;
+    padding: 40px;
+    border-radius: 16px;
+    background-color: rgb(236, 247, 252);
+}
+
+.js {
+    margin: 40px;
+    padding: 40px;
+    border-radius: 16px;
+    background-color: rgb(253, 249, 242);
+}
+
+.three-elements {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
+/*footer style*/
+
+.footer-head {
+    font-weight: 800px;
+    font-size: 32px;
+}
+
+.footer-descripton {
+    font-weight: 400px;
+    font-size: 16px;
+}
