@@ -157,3 +157,34 @@ section div a {
     justify-content: space-between;
     gap: 32px;
 }
+
+
+
+/*inspiration style*/
+
+.inspiration-title {
+    font-size: 32px;
+    font-weight: 800px;
+}
+
+.inspiration-description {
+    font-weight: 400px;
+    font-size: 16px;
+    opacity: 0.5;
+}
+
+.inspiration-parent {
+    text-align: center;
+}
+
+.add-video {
+    padding: 32px;
+}
+
+.video {
+    text-align: center;
+    padding: 140px;
+    justify-content: space-between;
+    margin: 152px;
+    padding: 80px 97px;
+}
